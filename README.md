@@ -1,7 +1,6 @@
 # Photography-Gallery
 
-A photography gallery showcasing my artwork. 
+A custom photography gallery showcasing my artwork. Created with HTML, And CSS. Used bootstrap to make page responsive. Bootstrap cards used to make gallery. Fully functional contact form that sends messages to my direct email
 
-Created using HTML and CSS 
 
 ![](galIMG.PNG)
